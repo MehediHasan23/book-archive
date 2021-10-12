@@ -1,0 +1,13 @@
+body{
+  background-color: lightblue;
+  background-image: url(images/books-library.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#style{
+  height: 70vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+}
